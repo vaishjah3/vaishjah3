@@ -14,7 +14,7 @@ Bridging research → production
 Languages: Python, SQL  
 ML/AI: PyTorch, TensorFlow, Hugging Face, LangChain / LLM frameworks  
 
-📈 Core Areas of focus
+📈 Core Areas of focus  
 Autonomous agents & reasoning systems  
 LLM inference & optimization  
 Scalable AI systems  
