@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Vaishnavi 
 
-<!--
-**vaishjah3/vaishjah3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 ML Engineer specializing in Agentic AI  
+🎓 MS in Electrical & Computer Engineering (Machine Learning & Data Science), UC San Diego  
+I build intelligent systems that think, act, and scale.  
 
-Here are some ideas to get you started:
+🧠 What I Work On
+Agentic AI systems (tool-using, multi-step reasoning agents)  
+LLM inference optimization (latency, cost, scaling)  
+End-to-end ML system design & deployment  
+Bridging research → production  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tech Stack
+Languages: Python, SQL  
+ML/AI: PyTorch, TensorFlow, Hugging Face, LangChain / LLM frameworks  
+
+📈 Core Areas of focus
+Autonomous agents & reasoning systems  
+LLM inference & optimization  
+Scalable AI systems  
+
+📈 Interests & Approach  
+Driven by deep curiosity to understand systems at a fundamental level    
+Actively explore emerging trends in Agentic AI and LLM inference    
+Strong focus on mastering core machine learning algorithms in depth    
+
+🤝 Let's Connect  
+💼 LinkedIn: [Vaishnavi Jahagirdar](https://www.linkedin.com/in/vaishnavi-jahagirdar/)  
+📧 Email: vjahagirdar@ucsd.edu  
