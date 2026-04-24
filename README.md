@@ -1,6 +1,6 @@
 👋 Hi, I'm Vaishnavi 
 
-🚀 ML Engineer specializing in Agentic AI  
+🚀 ML Research Engineer 
 🎓 MS in Electrical & Computer Engineering (Machine Learning & Data Science), UC San Diego  
 I build intelligent systems that think, act, and scale.  
 
