@@ -1,8 +1,8 @@
-👋 Hi, I'm Vaishnavi 
+👋 Hi, I'm Vaishnavi. I build intelligent systems that think, act, and scale. 
 
-🚀 ML Research Engineer 
+🚀 ML Research Engineer
 🎓 MS in Electrical & Computer Engineering (Machine Learning & Data Science), UC San Diego  
-I build intelligent systems that think, act, and scale.  
+ 
 
 🧠 What I Work On
 Agentic AI systems (tool-using, multi-step reasoning agents)  
