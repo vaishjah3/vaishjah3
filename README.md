@@ -1,4 +1,4 @@
-👋 Hi, I'm Vaishnavi. I build intelligent systems that think, act, and scale. 
+👋 Hi, I'm Vaishnavi. I build intelligent systems that think, act, and scale. I love to read and implement latest research in AI agentsand LLM inference!
 
 🚀 ML Research Engineer
 🎓 MS in Electrical & Computer Engineering (Machine Learning & Data Science), UC San Diego  
